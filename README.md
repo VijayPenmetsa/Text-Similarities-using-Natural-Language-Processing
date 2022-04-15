@@ -1,4 +1,4 @@
-# Text Similarities using Transformers and spaCy
+# Text Similarities using Natural Language Processing
 
 ## Introduction
 
